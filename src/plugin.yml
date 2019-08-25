@@ -1,0 +1,8 @@
+name: SnapecraftGhostMode
+author: Pepe44, SnapecraftDev
+version: 1.0
+description: This Command set you on ghost no player can see you in this mode but Your owner can see you everytime!
+main: net.snapecraft.ghostmode.Main
+commands:
+  ghost:
+    aliases: [g]
